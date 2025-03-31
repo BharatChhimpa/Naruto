@@ -1,11 +1,33 @@
 {
-    "name": "Master-Extractor",
-    "description": "Master Extractor Bot for Telegram, built with Pyrogram.",
+    "name": "BHARAT BOTS",
+    "description": "Download videos from various websites using this Telegram bot.",
+    "logo": "https://tinypic.host/images/2023/06/21/_DSC1783-KRUPNYI-RAZMER.jpeg",
     "keywords": [
-        "pyrogram",
-        "docker"
+        "drm-video-dl",
+        "video-extract",
+        "pyrogram"
     ],
+    "repository": "https://github.com/BharatChhimpa/Naruto",
+    "success_url": "https://github.com/BharatChhimpa/Naruto",
     "stack": "container",
+    "env": {
+        "API_ID": {
+            "description": "29683927.",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "b2eb32ac1030edd8bc36c7b554ef6fc3.",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "7761679409:AAH98sPxGhsort45wSh7Ha2irez4twiYi9g.",
+            "required": true
+        },
+        "AUTH_USERS": {
+            "description": "5583858510, e.g., 6801378994,5919400080,...(Seprate by Comma) ",
+            "required": true
+        }
+    },
     "formation": {
         "worker": {
             "quantity": 1,
