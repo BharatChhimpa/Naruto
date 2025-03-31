@@ -13,15 +13,15 @@ class Config(object):
     
     DB_NAME = "MY_BOT_DB"
     
-    TXT_LOG = -1002340192085
+    TXT_LOG = -1002311732949
     
-    AUTH_LOG = -1002340192085
+    AUTH_LOG = -1002311732949
     
-    HIT_LOG = -1002340192085
+    HIT_LOG = -1002311732949
     
-    DRM_DUMP = -1002340192085
+    DRM_DUMP = -1002311732949
     # Main channel ki ID
-    CHANNEL = -1002340192085
+    CHANNEL = -1002311732949
     # Channel ka link
     CH_URL = "https://t.me/bkmaths1"
     
