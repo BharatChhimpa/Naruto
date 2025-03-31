@@ -12,19 +12,19 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "29683927.",
+            "description": "Your API ID.",
             "required": true
         },
         "API_HASH": {
-            "description": "b2eb32ac1030edd8bc36c7b554ef6fc3.",
+            "description": "YOUR API HASH.",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "7761679409:AAH98sPxGhsort45wSh7Ha2irez4twiYi9g.",
+            "description": "YOUR BOT TOKEN.",
             "required": true
         },
         "AUTH_USERS": {
-            "description": "5583858510, e.g., 6801378994,5919400080,...(Seprate by Comma) ",
+            "description": "YOUR CHANNEL ID, e.g., 6801378994,5919400080,...(Seprate by Comma) ",
             "required": true
         }
     },
